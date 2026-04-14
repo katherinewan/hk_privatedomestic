@@ -13,10 +13,10 @@ Classes: A to E
 - Data cleaning
 - Univariate analysis
 - Bivariate analysis
-- Multivariate analysis [file:143]
+- Multivariate analysis
 
 ## Main Finding
-The rental market dropped sharply during the pandemic and later entered a recovery phase, while smaller units showed stronger resilience than luxury units. [file:143]
+The rental market dropped sharply during the pandemic and later entered a recovery phase, while smaller units showed stronger resilience than luxury units. 
 
 ## Tools
 Python, Pandas, Matplotlib, Seaborn
